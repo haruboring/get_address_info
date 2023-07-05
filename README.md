@@ -1,4 +1,4 @@
-# get_address_info
+# get_and_put_address_info
 
 [郵便番号データ](https://www.post.japanpost.jp/zipcode/dl/readme.html)からダウンロード出来るCSVファイルから、同一の郵便番号を保つ住所情報を削除して、DynamoDBにインデックスを追加し、可視化のためにJSONファイルを生成するコード。
 
